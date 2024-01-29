@@ -1,0 +1,37 @@
+### Titan Gym - Proyecto###
+
+
+# ignora archivos de texto específicos
+data.txt
+Readme.txt
+
+# ignora archivos de configuración
+/include/
+/include/db_conn.php
+
+# ignora página principal
+./index.php
+/dashboard/admin/index.php
+./index.html
+index.html
+
+# ignora fuentes
+# ...vacío...
+
+# ignora estilos específicos
+style.css
+/css/
+/css/*.css
+./*.css
+
+# ignora imágenes propoas del proyecto
+/images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# ignora archivos y bases de datos
+*.log
+*.sql
+*.sqlite
