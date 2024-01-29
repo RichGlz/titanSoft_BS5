@@ -6,23 +6,18 @@ data.txt
 Readme.txt
 
 # ignora archivos de configuración
-/include/
 /include/db_conn.php
 
 # ignora página principal
-./index.php
-/dashboard/admin/index.php
 ./index.html
 index.html
 
 # ignora fuentes
 # ...vacío...
+/font/re*
 
 # ignora estilos específicos
-style.css
-/css/
-/css/*.css
-./*.css
+# ...vacío...
 
 # ignora imágenes propoas del proyecto
 /images/
