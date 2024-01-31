@@ -62,7 +62,7 @@ else{
 <html lang="en">
 <head>
 
-   <title>ConfiguroWeb | Health Status Entry</title>
+   <title>Titan Gym | Estatus de salud</title>
   <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">

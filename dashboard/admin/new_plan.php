@@ -7,7 +7,7 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Nuevo Plan</title>
+    <title>Titan Gym | Nuevo Plan</title>
   
 	<link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>

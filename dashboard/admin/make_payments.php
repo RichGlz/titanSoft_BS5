@@ -27,7 +27,7 @@ if (isset($_POST['userID']) && isset($_POST['planID'])) {
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Make Payment</title>
+    <title>Titan Gym | Realizar pago</title>
      <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">

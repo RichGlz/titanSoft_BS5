@@ -86,7 +86,7 @@ page_protect();
 				
 	</div>
 
-		<h2>ConfiguroWeb GYM | Panel de Control</h2>
+		<h2>Titan Gym GYM | Panel de Control</h2>
 
 		<hr>
 

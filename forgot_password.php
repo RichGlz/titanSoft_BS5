@@ -8,7 +8,7 @@
     <meta name="description" content="Neon Admin Panel" />
     <meta name="author" content="Laborator.co" />
     
-    <title>ConfiguroWeb | Login</title>
+    <title>Titan Gym | Login</title>
     <link rel="stylesheet" href="./css/style.css"/>
 	<link rel="stylesheet" type="text/css" href="./css/entypo.css">
 

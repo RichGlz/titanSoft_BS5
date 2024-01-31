@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ConfiguroWeb | GYM</title>
+	<title>Titan Gym </title>
 	<link rel="stylesheet" href="./css/style.css"/>
 	<link rel="stylesheet" type="text/css" href="./css/entypo.css">
 </head>
@@ -29,7 +29,7 @@
 				<img src="./images/logo.png" alt="" />
 			</a>
 			
-			<p class="description">ConfiguroWeb | GYM</p>
+			<p class="description">Titan Gym </p>
 			
 			<!-- progress bar indicator -->
 			<div class="login-progressbar-indicator">

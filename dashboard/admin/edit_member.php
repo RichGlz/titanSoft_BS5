@@ -10,7 +10,7 @@ if (isset($_POST['name'])) {
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Editar Miembro</title>
+    <title>Titan Gym | Editar Miembro</title>
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">

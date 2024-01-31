@@ -10,7 +10,7 @@ page_protect();
 <html lang="es">
 <head>
 
-    <title>ConfiguroWeb | Historial de Miembro</title>
+    <title>Titan Gym | Historial de Miembro</title>
    	<link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">

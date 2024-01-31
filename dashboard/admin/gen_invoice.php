@@ -56,7 +56,7 @@ line-height:0.5cm;
 <table id =space width="760" height="397" border="0" align="center">
   <tr>
     <td width="222" height="198"><img src="logo.png" width="114" height="115"  alt=""/></td>
-    <td width="317"><p><strong>ConfiguroWeb | GYM</strong></p>
+    <td width="317"><p><strong>Titan Gym </strong></p>
 </td>
     <td height="198"><p>No de Serie : <?php echo $row['et_id'] ?></p>
       <p>&nbsp;</p>
